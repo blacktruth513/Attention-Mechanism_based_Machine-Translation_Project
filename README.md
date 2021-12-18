@@ -3,6 +3,9 @@
 ## 1. 프로젝트 주제
 어텐션 메커니즘을 적용한 Seq2Seq NLP 모델 기반 중문-영문 기계어 번역 프로젝트 
 
+### 어텐션 알고리즘 도식도
+<img width="80%" src="https://user-images.githubusercontent.com/78430460/146637780-90ba3606-3f6c-4fe0-a6b8-e5e1d030662a.png"/>
+
 ## 2. 프로젝트 개요
 기존 Seq2Seq 모델의 문제점을 개선한 Attention 적용 Seq2Seq 언어
 모델을 통해 입력 데이터(중문)를 타겟 데이터(영문)로 기계어 번역하는
@@ -30,3 +33,6 @@
 분석하고 모델 성능 평가를 위한 BLEU(Bilingual Evaluation 
 Understudy) 성능 지표를 활용하여 번역(예측) 결과를 정량적으로
 평가한다.
+
+## 6. 프로젝트 결과 분석 
+
