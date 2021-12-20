@@ -1,4 +1,4 @@
-# Attention-Mechanism-based-Machine-Translation-Project
+# <div align="Center">Attention-Mechanism-based-Machine-Translation-Project </div>
 
 ## 1. 프로젝트 주제
 어텐션 메커니즘을 적용한 Seq2Seq NLP 모델 기반 중문-영문 기계어 번역 프로젝트 
